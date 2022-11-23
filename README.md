@@ -1,5 +1,5 @@
 # Data-Science-Showcase-Depp-v-Heard
-## Multi-Method Data Science showcase (SICSS 2022 project) 
+## Multi-Method Data Science Showcase (SICSS 2022 project) 
 
 
 This is our SICSS (Summer Institute in Computational Social Science) 2022 Aachen-Graz project. In 4.5 days, we investigated the debate regarding the Depp v Heard case on Twitter. 
