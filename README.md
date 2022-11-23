@@ -9,7 +9,7 @@ This project serves as a showcase for data-driven approaches that tackle (resear
 
 We are happy to share our presentation (reporting on general approach and design, data selection criteria, data collection, data analysis, and results) and our code (jupyter notebooks). Please note that we must not share the original tweets we used for our analysis (we do share the selection criteria we used, i.e. the query we used for the Twitter API). 
 
-Project team (alphabetical order, last name basis): 
+Project team (alphabetical order, sorted on last name basis): 
 Dovlat Aliyeva,
 Yasaman Asgari (aka our amazing coding wizard), 
 Muhsin Ciftci,
