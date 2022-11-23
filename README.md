@@ -10,12 +10,12 @@ This project serves as a showcase for data-driven approaches that tackle (resear
 We are happy to share our presentation (reporting on general approach and design, data selection criteria, data collection, data analysis, and results) and our code. Please note that we must not share the original tweets we used for our analysis (we do share the selection criteria we used, i.e. the query we used for the Twitter API). 
 
 Project team (alphabetical order): 
-Dovlat Aliyeva
-Yasaman Asgari (aka our amazing coding wizard) 
-Muhsin Ciftci
-Alina Kopkow
-Katharina Roetzer
-Nathalie Van Raemdonck
-Zehui Yu
+Dovlat Aliyeva,
+Yasaman Asgari (aka our amazing coding wizard), 
+Muhsin Ciftci,
+Alina Kopkow,
+Katharina Roetzer,
+Nathalie Van Raemdonck,
+Zehui Yu.
 
-Special thanks to Jana Lasser and Ivan Smirnov for their input, feedback, and support. 
+Special thanks to Jana Lasser and Ivan Smirnov for organising and teaching in the context of SICSS 2022 Aachen-Graz, as well as all their input, feedback, and support throughout. 
